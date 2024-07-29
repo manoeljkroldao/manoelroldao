@@ -8,7 +8,7 @@ Experiências profissionais: Ja trabalhei em uma loja de decorações pra evento
 
 Linguagem de Programação favorita: Java Script
 
-O que está estudando atualmente: Estou terminando o ensino médio, fazendo o curso do PS WEB e alguns cursos do caldeiras.
+O que está estudando atualmente: Estou terminando o ensino médio com curso técnico em informática, fazendo o curso do PS WEB e alguns cursos do caldeiras.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
