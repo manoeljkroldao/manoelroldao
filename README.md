@@ -1,10 +1,10 @@
-Nome:Manoel Júnior Kanitz Roldão;
+Nome: Manoel Júnior Kanitz Roldão;
 
-Hobbies:Gosto muito de praticar esportes e jogar jogos online;
+Hobbies: Gosto muito de praticar esportes e jogar jogos online;
 
 Formação: Estou terminando o ensino médio junto com o técnico e to fazendo o curso do PS WEB;
 
-Experiências profissionais:Ja trabalhei em uma loja de decorações pra eventos e aprendi  a fazer qualquer adesivo personalizado.
+Experiências profissionais: Ja trabalhei em uma loja de decorações pra eventos e aprendi  a fazer qualquer adesivo personalizado.
 
 Linguagem de Programação favorita: Java Script
 
